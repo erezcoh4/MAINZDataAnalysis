@@ -1,0 +1,6 @@
+figQ21.dat is binned by Q2, and figQ22.dat is binned by th_pq.
+
+The key is:
+Setup, bin, X, dX, R3D, dR3D, PyRes, dPyRes, M7, 1, H ...
+You need only five fields:
+X, dX, R3D/H, -dR3D/H, M7/H
